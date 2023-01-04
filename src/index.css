@@ -11,6 +11,9 @@ body {
 .card img {
   height: 80px;
 }
+.cartCard img{
+  height: 80px;
+} 
 .card {
   background: white;
   padding: 20px;
